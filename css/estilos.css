@@ -11,6 +11,7 @@ body
 
 #cabecera
 {
+    text-align: center;
     background: #06ad83;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
@@ -27,6 +28,7 @@ body
 
 #cabecera #tagline
 {
+    text-align: center;
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
@@ -47,6 +49,7 @@ body
 }
 #post
 {
+    text-align: center;
     background: white;
     padding: 1em;
 }
