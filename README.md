@@ -15,6 +15,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Creado por el increible poder de Iván
 * Pensado para fortalecer los vínculos con el aprendizaje
 * Incluye ejemplos en windows, linux y mac
+* Diverso y atractivo para todos
 
 
 
