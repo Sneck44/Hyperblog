@@ -1,7 +1,15 @@
 Iván es el mejor de todos y ha logrado hacer lo imposible.
 
+<<<<<<< HEAD
 MASTER 1
 
 
 
 Vamos a unir sin dejar rastro alguno de cambios en ramas extras.
+=======
+BUGS1
+
+
+
+BUGS2
+>>>>>>> bugs
