@@ -1,3 +1,7 @@
 Iván es el mejor de todos y ha logrado hacer lo imposible.
 
-BUGS 1
+BUGS1
+
+
+
+BUGS2
